@@ -1,2 +1,16 @@
+body {
+	margin:0;
+	padding:0;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	height:100vh;
+}
 
-/* Your CSS Code here. */
+img {
+	height: 70vmin;
+	width: 95vmin;
+	border-radius: 48px;
+	border: 5px solid yellow;
+	box-shadow: 0 4px 20px orange;
+}
